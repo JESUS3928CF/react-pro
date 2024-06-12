@@ -1,9 +1,8 @@
-import './App.css'
-import FormikBasicPage from './forms/pages/FormikBasicPage';
+import './App.css';
+import FormikComponents from './forms/pages/FormikComponents';
 
 function App() {
-
-  return <FormikBasicPage/>;
+    return <FormikComponents />;
 }
 
-export default App
+export default App;
